@@ -2,13 +2,13 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-# 🧠 Deploying Active Directory on Windows Server
+# 🛡️ Deploying Active Directory on Windows Server
 
 This project demonstrates the step-by-step process of deploying Active Directory (AD) within a Windows Server environment. The lab includes setting up a domain controller, creating user accounts, and joining a Windows client to the domain. This project highlights my knowledge in Windows Server administration and Active Directory fundamentals — critical skills for IT support and system administration roles.
 
 ---
 
-## 🖼️ Lab Overview (Screenshots + Descriptions)
+## Lab Overview (Screenshots + Descriptions)
 
 ### 1. Installing Active Directory
 ![Installing Active Directory](Deploying%20Active%20Directory/1.%20Installing%20Active%20Directory%20.png)
